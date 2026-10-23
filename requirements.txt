@@ -1,0 +1,9 @@
+pygame>=2.5
+numpy
+neuvoice
+sounddevice
+faster-whisper
+ddgs
+psutil
+llama-cpp-python
+huggingface-hub
